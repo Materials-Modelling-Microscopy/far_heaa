@@ -9,7 +9,7 @@
 ## Installation
 
 ```commandline
-git clone
+git clone https://github.com/Materials-Modelling-Microscopy/far_heaa.git
 ```
 
 ```commandline

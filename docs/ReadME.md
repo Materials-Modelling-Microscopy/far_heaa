@@ -1,10 +1,12 @@
-# Fast and Robust High Entropy Alloy Analysis
+# Fast and Robust Solid Solution Stability Analysis
+
+A phase stabillity prediction package along with interpretive visualizations for the modelling the formation of solid solutions in high entropy alloys. 
 
 ## Features
 
 - Use DFT generated mixing enthalpy values to create regular solution models that can be used to generate phase diagrams.
 - A visualization toolkit that plots binary, ternary phase diagrams along with other higher order visualizations.
-- High throughput calculations across phase space for stable High Entropy Alloys to assist experimentalists with design choices.
+- High throughput calculations across phase space for screening stable High Entropy Alloys to assist experimentalists with design choices.
 
 ## Installation
 

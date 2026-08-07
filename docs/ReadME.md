@@ -45,9 +45,8 @@ meta_data = mH.get_metadata
 ````
 
 For more details, there is always documentation. 
-## Change Log
 
 ## Cite
+Zhang, Zhaohan, Mu Li, John Cavin, Katharine Flores, and Rohan Mishra. "A fast and robust method for predicting the phase stability of refractory complex concentrated alloys using pairwise mixing enthalpy." Acta Materialia 241 (2022): 118389.
 
-## Usage Policy
 
